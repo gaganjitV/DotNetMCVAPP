@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I/jAqcqv3KY=",
+  "dgSpecHash": "eqjdue+N4nA=",
   "success": true,
-  "projectFilePath": "/Users/gaganjitvirdi/dot_net/RdTestApp/RdTestApp.csproj",
+  "projectFilePath": "/Users/gaganjitvirdi/dot_net/DotNetApp1/RdTestApp.csproj",
   "expectedPackageFiles": [
     "/Users/gaganjitvirdi/.nuget/packages/azure.core/1.38.0/azure.core.1.38.0.nupkg.sha512",
     "/Users/gaganjitvirdi/.nuget/packages/azure.identity/1.11.4/azure.identity.1.11.4.nupkg.sha512",

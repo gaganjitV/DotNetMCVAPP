@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/gaganjitvirdi/dot_net/RdTestApp/RdTestApp.csproj": {}
+    "/Users/gaganjitvirdi/dot_net/DotNetApp1/RdTestApp.csproj": {}
   },
   "projects": {
-    "/Users/gaganjitvirdi/dot_net/RdTestApp/RdTestApp.csproj": {
+    "/Users/gaganjitvirdi/dot_net/DotNetApp1/RdTestApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gaganjitvirdi/dot_net/RdTestApp/RdTestApp.csproj",
+        "projectUniqueName": "/Users/gaganjitvirdi/dot_net/DotNetApp1/RdTestApp.csproj",
         "projectName": "RdTestApp",
-        "projectPath": "/Users/gaganjitvirdi/dot_net/RdTestApp/RdTestApp.csproj",
+        "projectPath": "/Users/gaganjitvirdi/dot_net/DotNetApp1/RdTestApp.csproj",
         "packagesPath": "/Users/gaganjitvirdi/.nuget/packages/",
-        "outputPath": "/Users/gaganjitvirdi/dot_net/RdTestApp/obj/",
+        "outputPath": "/Users/gaganjitvirdi/dot_net/DotNetApp1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/gaganjitvirdi/.nuget/NuGet/NuGet.Config"

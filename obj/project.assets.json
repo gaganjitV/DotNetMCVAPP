@@ -2712,7 +2712,7 @@
   "projectFileDependencyGroups": {
     "net9.0": [
       "Microsoft.Data.SqlClient >= 6.0.2",
-      "System.Data.common >= 4.3.0"
+      "System.Data.Common >= 4.3.0"
     ]
   },
   "packageFolders": {
@@ -2721,11 +2721,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/gaganjitvirdi/dot_net/RdTestApp/RdTestApp.csproj",
+      "projectUniqueName": "/Users/gaganjitvirdi/dot_net/DotNetApp1/RdTestApp.csproj",
       "projectName": "RdTestApp",
-      "projectPath": "/Users/gaganjitvirdi/dot_net/RdTestApp/RdTestApp.csproj",
+      "projectPath": "/Users/gaganjitvirdi/dot_net/DotNetApp1/RdTestApp.csproj",
       "packagesPath": "/Users/gaganjitvirdi/.nuget/packages/",
-      "outputPath": "/Users/gaganjitvirdi/dot_net/RdTestApp/obj/",
+      "outputPath": "/Users/gaganjitvirdi/dot_net/DotNetApp1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/gaganjitvirdi/.nuget/NuGet/NuGet.Config"
@@ -2762,7 +2762,7 @@
             "target": "Package",
             "version": "[6.0.2, )"
           },
-          "System.Data.common": {
+          "System.Data.Common": {
             "target": "Package",
             "version": "[4.3.0, )"
           }
