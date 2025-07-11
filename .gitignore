@@ -1,0 +1,17 @@
+# Build and output folders
+bin/
+obj/
+.vscode/
+*.user
+*.suo
+
+# DotNet user secrets
+*.db
+*.sqlite
+
+# OS junk
+.DS_Store
+
+# Rider, VS, or other IDE folders
+.idea/
+.vs/
