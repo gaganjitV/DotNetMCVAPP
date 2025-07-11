@@ -1,0 +1,33 @@
+﻿@using System.Data
+@{
+    ViewData["Title"] = "Home Page";
+    DataTable vdt = (DataTable)ViewData["DeptData"];
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Welcome to the ASP.NET Core application!</p>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+
+    <table class="table">
+        <thead>
+            <tr>
+            <th scope="col">DEPTNO#</th>
+            <th scope="col">DNAME</th>
+            <th scope="col">LOC</th>
+            
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (DataRow row in vdt.Rows)
+            {
+                <tr>
+                    <td>@row["DEPTNO"]</td>
+                    <td>@row["DNAME"]</td>
+                    <td>@row["LOC"]</td>
+                </tr>
+                
+            }
+        </tbody>
+    </table>
+</div>
